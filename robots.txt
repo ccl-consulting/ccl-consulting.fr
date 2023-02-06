@@ -1,0 +1,2 @@
+Sitemap: https://ccl-consulting.fr//sitemap.xml
+User-agent: *
